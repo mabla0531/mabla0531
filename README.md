@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mabla0531
-- 👀 I’m interested in writing terrible code
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on forgetting about coding
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me: mabla0531@gmail.com OR 903-491-1009
 
 <!---
