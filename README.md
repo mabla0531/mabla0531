@@ -1,7 +1,11 @@
-Hi, I’m @mabla0531
+Hi, I’m Matthew!
+
 I use Rust and C# daily, and tinker with Yew/React on the side 
-I am pathologically incapable of picking a Linux distro, desktop environment, window manager, theme, or terminal emulator
+
+I am pathologically incapable of picking a Linux distro, desktop environment, window manager, theme, or terminal emulator 😂
+
 I’m currently working on mastering web development and UI/UX techniques
+
 
 How to reach me:
     Email: mabla0531@gmail.com
