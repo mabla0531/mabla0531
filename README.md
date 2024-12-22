@@ -15,7 +15,7 @@ I’m currently working on mastering web development and UI/UX techniques!
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)][x]
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)][reddit]
 
-Discord: `matthewbl1041`
+<img src="https://img.shields.io/badge/discord%3A-matthewbl1041-blue"/>
 
 ---
 
