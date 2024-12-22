@@ -1,6 +1,6 @@
 [x]: https://x.com/mabla0531
 [reddit]: https://www.reddit.com/user/mblan180131/
-[discord]: https://discordapp.com/users/1080161855521181828
+[discord]: https://discord.com/users/1080161855521181828
 
 ## Hi, I’m Matthew!
 
@@ -14,7 +14,9 @@ I’m currently working on mastering web development and UI/UX techniques!
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)][x]
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)][reddit]
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)][discord]
 
+Discord: `matthewbl1041`
+
+---
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabla0531&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
