@@ -2,7 +2,7 @@ Hi, I’m Matthew!
 
 I use Rust and C# daily, and tinker with Yew/React on the side 
 
-I am pathologically incapable of picking a Linux distro, desktop environment, window manager, theme, or terminal emulator 😂
+I am pathologically incapable of sticking with a Linux distro, desktop environment, window manager, theme, or terminal emulator 😂
 
 I’m currently working on mastering web development and UI/UX techniques
 
