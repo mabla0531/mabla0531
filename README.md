@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mabla0531
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on cool stuff
-- 📫 How to reach me: mabla0531@gmail.com OR 903-491-1009
+Hi, I’m @mabla0531
+I use Rust and C# daily, and tinker with Yew/React on the side 
+I am pathologically incapable of picking a Linux distro, desktop environment, window manager, theme, or terminal emulator
+I’m currently working on mastering web development and UI/UX techniques
+
+How to reach me:
+    Email: mabla0531@gmail.com
 
 <!---
 mabla0531/mabla0531 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
