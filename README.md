@@ -4,11 +4,7 @@
 
 ## Hi, I’m Matthew!
 
-I use Rust and C# daily and tinker with Yew/React on the side.
-
-I am pathologically incapable of sticking with a Linux distro, desktop environment, window manager, or theme 😂
-
-I’m currently working on mastering web development and UI/UX techniques.
+I use Rust and C# daily and work on mastering UI/UX with Dioxus, React, Tailwind/DaisyUI on the side.
 
 ### Let's get in touch!
 
