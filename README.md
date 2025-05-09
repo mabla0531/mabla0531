@@ -6,6 +6,8 @@
 
 I use Rust and C# daily and work on mastering UI/UX with Dioxus, React, Tailwind/DaisyUI on the side.
 
+My portfolio site can be found here: [soon!]
+
 ### Let's get in touch!
 
 [![X](https://img.shields.io/badge/-X-050505?logo=X&logoColor=white&style=flat)][x]
