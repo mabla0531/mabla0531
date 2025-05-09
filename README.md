@@ -6,7 +6,7 @@
 
 I use Rust and C# daily and work on mastering UI/UX with Dioxus, React, Tailwind/DaisyUI on the side.
 
-My portfolio site can be found here: [soon!]
+My portfolio site can be found [here](https://mabla0531.github.io)
 
 ### Let's get in touch!
 
