@@ -12,4 +12,4 @@ I use Rust and C# daily and work on mastering UI/UX with Ratatui, Dioxus, Svelte
 [![X](https://img.shields.io/badge/-X-050505?logo=X&logoColor=white&style=flat)][x]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white&style=flat)][linkedin]
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabla0531&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabla0531&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=shell"/>
