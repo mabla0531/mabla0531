@@ -3,7 +3,7 @@
 
 ## Hi, I’m Matthew!
 
-I use Rust and C# daily and work on mastering UI/UX with Ratatui, Dioxus, Svelte, Tailwind/DaisyUI on the side.
+I use Rust and C# daily and work on UI/UX with Ratatui, Dioxus, Svelte, Tailwind/DaisyUI on the side.
 
 [My portfolio site](https://mabla0531.github.io)
 
